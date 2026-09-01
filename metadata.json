@@ -1,0 +1,6 @@
+{
+  "name": "Stealth Video Recorder",
+  "description": "Smart background camera video recorder with front/back camera selection, screen-off blackout mode, covert stealth screen disguise, and automatic gallery saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
